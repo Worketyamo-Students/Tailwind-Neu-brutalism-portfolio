@@ -1,4 +1,4 @@
-# Minimal style Portfolio 📝  
+# Neu-brutalism Portfolio 📝  
   
 ## Screenshots  
 ![App Screenshot](https://assets.grok.com/users/3cb735c3-2c80-45f5-ae6e-264c8e0e303e/7t4xg3a2dtBMPwcn-generated_image.jpg)  
